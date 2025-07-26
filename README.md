@@ -30,9 +30,9 @@ This project aims to forecast the adoption trends of Electric Vehicles (EVs) usi
 2. Data Preprocessing: Cleaning missing values, formatting date-time fields, and generating new features.
 3. Exploratory Data Analysis: Trend analysis, year-wise and category-wise visualizations.
 4. Modeling: 
-    ARIMA
-    Facebook Prophet
-    Linear Regression
+   - ARIMA
+   - Facebook Prophet
+   - Linear Regression
 5. Forecasting: Predicting EV adoption trends for the next few years.
 
  📈 Results
